@@ -1,0 +1,12 @@
+.timer {
+}
+
+.digits {
+  background-color: #7b000e;
+  display: flex;
+}
+
+.label {
+  color: white;
+  font-size: 3rem;
+}

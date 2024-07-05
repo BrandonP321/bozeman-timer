@@ -1,0 +1,7 @@
+.clock {
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  width: 100%;
+  padding: 1rem 2rem;
+}
